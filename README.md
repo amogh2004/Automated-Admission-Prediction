@@ -21,7 +21,7 @@ Following steps occur in this process:</br>
 2.We will plot the actual and predicted values for all four models and
   also plot the most significant featurs against output y_pred.</br>
 
-3.Hence by building all the models mentioned above we will be able to predict to 'chance of admit'.</br>
+3.Hence by building all the models mentioned above we will be able to predict the 'chance of admit'.</br>
 
 
 
