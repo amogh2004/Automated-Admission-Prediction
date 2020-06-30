@@ -2,7 +2,7 @@ DESCRIPTION:
 
 The idea behind this project is to predict the 'chance of admit'during filing an application for Master Studies.
 Based on what kind of data is provided we determine the students chance of admit.
-The important parameters that are considered during this process are:
+The important parameters that are considered during this process are
 1.GRE Score
 2.TOEFL Score
 3.University rating
