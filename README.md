@@ -41,10 +41,6 @@ Considering the dataset we have in our hands, graph of distributed TOEFL Scores 
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
 <hr> </hr>
 
-
-![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
-<hr> </hr>
-
 <h3> 3. CGPA</h3> </br>
 
 The Cumulative Grade Point is a 10 point grading system.</br>
@@ -61,7 +57,6 @@ College and university rankings are rankings of institutions in higher education
 University ranking depends on the magazines,newspwper,websites,projects or academics of the university.</br>
 Unversity ranking matters a lot for the admission higher studies</br>
 
-
 Considering the dataset we have in our hands, graph of distributed University rating Scores of Applicants is:</br>
 
 ![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
@@ -70,6 +65,8 @@ Considering the dataset we have in our hands, graph of distributed University ra
 <h3> 5. RESEARCH EXPERIENCE </h3> </br>
 
 The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.</br>
+Research experiences motivate the students to pursue graduate degrees and to develop necessary skills in themselves.</br>
+It define directions for furture studies based on research results.</br>
 
 Considering the dataset we have in our hands, graph of distributed RESERACH EXPERIENCE of Applicants is:</br>
 
