@@ -1,6 +1,6 @@
-<div class=".text-white on .bg-green-light">
+<div class="bg-green-light mb-2">
   <h2>DESCRIPTION:</h2>
- </div>
+</div>
 
 
 The idea behind this project is to predict the 'chance of admit' during filing an application for Master studies.</br>
