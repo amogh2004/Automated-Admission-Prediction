@@ -10,7 +10,8 @@ The important parameters that are considered during this process are:</br>
 6. Research Experience</br>
 7. Chance of admit</br>
 
-<b> GRE </b> </br>
+
+<h3> GRE </h3> </br>
 
 The Graduate Record Examination is a standarized exam, often required for admission to graduate and MBA programs globally. It's made up of three components:</br>
 
