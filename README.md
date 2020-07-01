@@ -1,5 +1,5 @@
 <h2>
-<div class="bg-green-light mb-2">
+<div class="bg-yellow mb-2">
   DESCRIPTION:
 </div>
 </h2>
