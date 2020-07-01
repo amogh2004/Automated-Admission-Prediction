@@ -11,6 +11,7 @@ The important parameters that are considered during this process are:</br>
 7. Chance of admit</br>
 
 
+
 <h3> 1. GRE </h3> </br>
 
 The Graduate Record Examination is a standarized exam, often required for admission to graduate and MBA programs globally. It's made up of three components:</br>
@@ -70,6 +71,7 @@ Considering the dataset we have in our hands, graph of distributed RESERACH EXPE
 
 <h3> 6. CHANCE OF ADMIT </h3> </br>
 We hence take a look at how all the parameters effect our ML Models:
+
 
 ![download](https://user-images.githubusercontent.com/38138793/86226627-8dbc0c80-bba9-11ea-960b-aa8b9d6c57e8.png)
 <hr> </hr>
