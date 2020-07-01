@@ -10,19 +10,6 @@ The important parameters that are considered during this process are:</br>
 6. Research Experience</br>
 7. Chance of admit</br>
 
-Following steps occur in this process:</br>
-
-1.We will be building the following models to predict the chance of admit</br>
- -> MULTIPLE LINEAR REGRESSOR</br>
- -> RANDOM FOREST REGRESSOR</br>
- -> MULTIPLE LINEAR REGRESSOR with PCA</br>
- -> RANDOM FOREST REGRESSOR with PCA</br>
-
-2.We will plot the actual and predicted values for all four models and
-  also plot the most significant featurs against output y_pred.</br>
-
-3.Hence by building all the models mentioned above we will be able to predict the 'chance of admit'.</br>
-
 <b> GRE </b> </br>
 
 The Graduate Record Examination is a standarized exam, often required for admission to graduate and MBA programs globally. It's made up of three components:</br>
@@ -78,5 +65,16 @@ Considering the dataset we have in our hands, graph of distributed RESERACH EXPE
 ![download](https://user-images.githubusercontent.com/38138793/86226627-8dbc0c80-bba9-11ea-960b-aa8b9d6c57e8.png)
 
 
+Following steps occur in this process:</br>
 
+1.We will be building the following models to predict the chance of admit</br>
+ -> MULTIPLE LINEAR REGRESSOR</br>
+ -> RANDOM FOREST REGRESSOR</br>
+ -> MULTIPLE LINEAR REGRESSOR with PCA</br>
+ -> RANDOM FOREST REGRESSOR with PCA</br>
+
+2.We will plot the actual and predicted values for all four models and
+  also plot the most significant featurs against output y_pred.</br>
+
+3.Hence by building all the models mentioned above we will be able to predict the 'chance of admit'.</br>
 
