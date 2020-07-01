@@ -9,10 +9,10 @@ The important parameters that are considered during this process are:</br>
 5. CGPA</br>
 6. Research Experience</br>
 7. Chance of admit</br>
+<hr> </hr>
+</br>
 
-
-
-<h3> 1. GRE </h3> </br>
+<h3> 1. GRE </h3>
 
 The Graduate Record Examination is a standarized exam, often required for admission to graduate and MBA programs globally. It's made up of three components:</br>
 
@@ -25,7 +25,7 @@ Considering the dataset we have in our hands, graph of distributed GRE Scores of
 ![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
 <hr> </hr>
 
-<h3> 2. TOEFL</h3> </br>
+<h3> 2. TOEFL</h3>
 
 The Test of English as a Foreign Language is a standarized test for non-native English speakers that are choosing to enroll in English-speaking universities.</br>
 
@@ -41,7 +41,7 @@ Considering the dataset we have in our hands, graph of distributed TOEFL Scores 
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
 <hr> </hr>
 
-<h3> 3. CGPA</h3> </br>
+<h3> 3. CGPA</h3>
 
 The Cumulative Grade Point is a 10 point grading system.</br>
 Cumulative grade point average is a average of grade points obtained from all the semesters.</br>
@@ -51,7 +51,7 @@ Considering the dataset we have in our hands, graph of distributed CGPA Scores o
 ![download (1)](https://user-images.githubusercontent.com/38138793/86228011-7c73ff80-bbab-11ea-939f-d6d9171634a2.png)
 <hr> </hr>
 
-<h3> 4. UNIVERSITY RATING </h3> </br>
+<h3> 4. UNIVERSITY RATING </h3> 
 
 College and university rankings are rankings of institutions in higher education which have been ranked on the basis of various combinations of various factors.</br>
 University ranking depends on the magazines,newspwper,websites,projects or academics of the university.</br>
@@ -62,7 +62,7 @@ Considering the dataset we have in our hands, graph of distributed University ra
 ![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
 <hr> </hr>
 
-<h3> 5. RESEARCH EXPERIENCE </h3> </br>
+<h3> 5. RESEARCH EXPERIENCE </h3> 
 
 The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.</br>
 Research experiences motivate the students to pursue graduate degrees and to develop necessary skills in themselves.</br>
@@ -73,7 +73,7 @@ Considering the dataset we have in our hands, graph of distributed RESERACH EXPE
 ![download (4)](https://user-images.githubusercontent.com/38138793/86229156-f22c9b00-bbac-11ea-8882-534008be7bb0.png)
 <hr> </hr>
 
-<h3> 6. CHANCE OF ADMIT </h3> </br>
+<h3> 6. CHANCE OF ADMIT </h3> 
 We hence take a look at how all the parameters effect our ML Models:
 
 
