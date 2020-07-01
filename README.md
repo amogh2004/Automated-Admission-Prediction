@@ -74,7 +74,7 @@ Considering the dataset we have in our hands, graph of distributed RESERACH EXPE
 <hr> </hr>
 
 <h3> 6. CHANCE OF ADMIT </h3> 
-We hence take a look at how all the parameters effect our ML Models:
+We hence take a look at how all the parameters effect the chance of admit:
 
 
 
