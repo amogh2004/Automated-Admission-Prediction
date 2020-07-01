@@ -31,7 +31,7 @@ The Graduate Record Examination is a standarized exam, often required for admiss
 2. Verbal Reasoning (Scored on a 130-170 scale)</br>
 3. Quantitative Reasoning (Scored on a 130-170 scale)</br>
 
-Considering the dataset we have in our hands, Graph of distributed GRE Scores of Applicants is:</br>
+Considering the dataset we have in our hands, graph of distributed GRE Scores of Applicants is:</br>
 
 ![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
 
@@ -46,7 +46,7 @@ The test is split up into 4 sections:</br>
 3. Speaking
 4. Writing
 
-Considering the dataset we have in our hands, Graph of distributed TOEFL Scores of Applicants is:</br>
+Considering the dataset we have in our hands, graph of distributed TOEFL Scores of Applicants is:</br>
 
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
 
