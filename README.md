@@ -41,16 +41,11 @@ Considering the dataset we have in our hands, graph of distributed TOEFL Scores 
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
 <hr> </hr>
 
-<h3> 3. UNIVERSITY RATING </h3> </br>
-
-College and university rankings are rankings of institutions in higher education which have been ranked on the basis of various combinations of various factors.</br>
-
-Considering the dataset we have in our hands, graph of distributed University rating Scores of Applicants is:</br>
 
 ![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
 <hr> </hr>
 
-<h3> 4. CGPA</h3> </br>
+<h3> 3. CGPA</h3> </br>
 
 The Cumulative Grade Point is a 10 point grading system.</br>
 Cumulative grade point average is a average of grade points obtained from all the semesters.</br>
@@ -58,6 +53,18 @@ Cumulative grade point average is a average of grade points obtained from all th
 Considering the dataset we have in our hands, graph of distributed CGPA Scores of Applicants is:</br>
 
 ![download (1)](https://user-images.githubusercontent.com/38138793/86228011-7c73ff80-bbab-11ea-939f-d6d9171634a2.png)
+<hr> </hr>
+
+<h3> 4. UNIVERSITY RATING </h3> </br>
+
+College and university rankings are rankings of institutions in higher education which have been ranked on the basis of various combinations of various factors.</br>
+University ranking depends on the magazines,newspwper,websites,projects or academics of the university.</br>
+Unversity ranking matters a lot for the admission higher studies</br>
+
+
+Considering the dataset we have in our hands, graph of distributed University rating Scores of Applicants is:</br>
+
+![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
 <hr> </hr>
 
 <h3> 5. RESEARCH EXPERIENCE </h3> </br>
