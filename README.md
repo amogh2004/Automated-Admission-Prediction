@@ -58,6 +58,13 @@ Considering the dataset we have in our hands, graph of distributed University ra
 
 ![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
 
+<b>CGPA</b> </br>
+
+The Cumulative Grade Point is a 10 point grading system.</br>
+Cumulative grade point average is a average of grade points obtained from all the semesters.</br>
+
+Considering the dataset we have in our hands, graph of distributed CGPA Scores of Applicants is:</br>
+
 ![download (1)](https://user-images.githubusercontent.com/38138793/86228011-7c73ff80-bbab-11ea-939f-d6d9171634a2.png)
 
 ![download (4)](https://user-images.githubusercontent.com/38138793/86229156-f22c9b00-bbac-11ea-8882-534008be7bb0.png)
