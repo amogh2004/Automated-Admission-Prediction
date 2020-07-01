@@ -1,5 +1,5 @@
-<div class="<h2>DESCRIPTION:</h2>">
-  .text-white on .bg-green-light
+<div class=".text-white on .bg-green-light">
+  <h2>DESCRIPTION:</h2>
  </div>
 
 
