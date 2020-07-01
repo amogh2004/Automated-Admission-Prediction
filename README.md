@@ -25,7 +25,8 @@ Following steps occur in this process:</br>
 
 ![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
 
-<h2> GRE <h2> </br>
+<b> GRE </b> </br>
+
 The Graduate Record Examination is a standarized exam, often required for admission to graduate and MBA programs globally. It's made up of three components:</br>
 
 1. Analytical Writing (Scored on a 0-6 scale in half-point increments)</br>
