@@ -67,6 +67,12 @@ Considering the dataset we have in our hands, graph of distributed CGPA Scores o
 
 ![download (1)](https://user-images.githubusercontent.com/38138793/86228011-7c73ff80-bbab-11ea-939f-d6d9171634a2.png)
 
+<b> RESEARCH EXPERIENCE </b> </br>
+
+The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.</br>
+
+Considering the dataset we have in our hands, graph of distributed RESERACH EXPERIENCE of Applicants is:</br>
+
 ![download (4)](https://user-images.githubusercontent.com/38138793/86229156-f22c9b00-bbac-11ea-8882-534008be7bb0.png)
 
 ![download](https://user-images.githubusercontent.com/38138793/86226627-8dbc0c80-bba9-11ea-960b-aa8b9d6c57e8.png)
