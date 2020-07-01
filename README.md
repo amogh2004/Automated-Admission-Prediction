@@ -6,7 +6,7 @@ The important parameters that are considered during this process are:</br>
 2. TOEFL Score</br>
 3. University rating</br>
 4. Statement of purpose</br>
-5. Undergraduate GPA</br>
+5. CGPA</br>
 6. Research Experience</br>
 7. Chance of admit</br>
 
@@ -22,6 +22,7 @@ The Graduate Record Examination is a standarized exam, often required for admiss
 Considering the dataset we have in our hands, graph of distributed GRE Scores of Applicants is:</br>
 
 ![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
+<hr> </hr>
 
 <h3>TOEFL</h3> </br>
 
