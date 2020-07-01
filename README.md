@@ -68,7 +68,11 @@ Considering the dataset we have in our hands, graph of distributed RESERACH EXPE
 ![download (4)](https://user-images.githubusercontent.com/38138793/86229156-f22c9b00-bbac-11ea-8882-534008be7bb0.png)
 <hr> </hr>
 
+<h3> 6. CHANCE OF ADMIT </h3> </br>
+We hence take a look at how all the parameters effect our ML Models:
+
 ![download](https://user-images.githubusercontent.com/38138793/86226627-8dbc0c80-bba9-11ea-960b-aa8b9d6c57e8.png)
+<hr> </hr>
 
 
 
