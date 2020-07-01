@@ -25,3 +25,6 @@ Following steps occur in this process:</br>
 ![download](https://user-images.githubusercontent.com/38138793/86226627-8dbc0c80-bba9-11ea-960b-aa8b9d6c57e8.png)
 
 ![download (1)](https://user-images.githubusercontent.com/38138793/86228011-7c73ff80-bbab-11ea-939f-d6d9171634a2.png)
+
+![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
+
