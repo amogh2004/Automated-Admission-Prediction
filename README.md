@@ -23,8 +23,6 @@ Following steps occur in this process:</br>
 
 3.Hence by building all the models mentioned above we will be able to predict the 'chance of admit'.</br>
 
-![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
-
 <b> GRE </b> </br>
 
 The Graduate Record Examination is a standarized exam, often required for admission to graduate and MBA programs globally. It's made up of three components:</br>
@@ -33,7 +31,9 @@ The Graduate Record Examination is a standarized exam, often required for admiss
 2. Verbal Reasoning (Scored on a 130-170 scale)</br>
 3. Quantitative Reasoning (Scored on a 130-170 scale)</br>
 
-![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
+Considering the dataset we have in our hands, Graph of distributed GRE Scores of Applicants is:</br>
+
+![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
 
 <b>TOEFL</b> </br>
 
@@ -45,6 +45,11 @@ The test is split up into 4 sections:</br>
 2. Listening
 3. Speaking
 4. Writing
+
+Considering the dataset we have in our hands, Graph of distributed TOEFL Scores of Applicants is:</br>
+
+![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
+
 
 ![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
 
