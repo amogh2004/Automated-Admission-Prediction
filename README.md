@@ -36,6 +36,7 @@ The Graduate Record Examination is a standarized exam, often required for admiss
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
 
 <b>TOEFL</b> </br>
+
 The Test of English as a Foreign Language is a standarized test for non-native English speakers that are choosing to enroll in English-speaking universities.</br>
 
 The test is split up into 4 sections:</br>
