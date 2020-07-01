@@ -33,5 +33,8 @@ Following steps occur in this process:</br>
 
 ![download (4)](https://user-images.githubusercontent.com/38138793/86229156-f22c9b00-bbac-11ea-8882-534008be7bb0.png)
 
+![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
+
+
 
 
