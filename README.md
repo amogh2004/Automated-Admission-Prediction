@@ -10,7 +10,7 @@ The important parameters that are considered during this process are:</br>
 6. Research Experience</br>
 7. Chance of admit</br>
 <hr> </hr>
-</br>
+
 
 <h3> 1. GRE </h3>
 
