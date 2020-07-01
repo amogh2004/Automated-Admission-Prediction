@@ -23,17 +23,17 @@ Following steps occur in this process:</br>
 
 3.Hence by building all the models mentioned above we will be able to predict the 'chance of admit'.</br>
 
-![download](https://user-images.githubusercontent.com/38138793/86226627-8dbc0c80-bba9-11ea-960b-aa8b9d6c57e8.png)
-
-![download (1)](https://user-images.githubusercontent.com/38138793/86228011-7c73ff80-bbab-11ea-939f-d6d9171634a2.png)
-
 ![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
 
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
 
+![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
+
+![download (1)](https://user-images.githubusercontent.com/38138793/86228011-7c73ff80-bbab-11ea-939f-d6d9171634a2.png)
+
 ![download (4)](https://user-images.githubusercontent.com/38138793/86229156-f22c9b00-bbac-11ea-8882-534008be7bb0.png)
 
-![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
+![download](https://user-images.githubusercontent.com/38138793/86226627-8dbc0c80-bba9-11ea-960b-aa8b9d6c57e8.png)
 
 
 
