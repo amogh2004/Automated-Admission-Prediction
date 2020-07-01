@@ -50,6 +50,11 @@ Considering the dataset we have in our hands, graph of distributed TOEFL Scores 
 
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
 
+<b> UNIVERSITY RATING </b> </br>
+
+College and university rankings are rankings of institutions in higher education which have been ranked on the basis of various combinations of various factors.</br>
+
+Considering the dataset we have in our hands, graph of distributed University rating Scores of Applicants is:</br>
 
 ![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
 
