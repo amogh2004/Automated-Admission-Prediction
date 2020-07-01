@@ -25,7 +25,7 @@ Following steps occur in this process:</br>
 
 ![download (2)](https://user-images.githubusercontent.com/38138793/86228672-47b47800-bbac-11ea-9a24-3bd1b82deaf4.png)
 
-<h>GRE</h>
+<b>GRE<b> </br>
 The Graduate Record Examination is a standarized exam, often required for admission to graduate and MBA programs globally. It's made up of three components:</br>
 
 1. Analytical Writing (Scored on a 0-6 scale in half-point increments)</br>
@@ -33,6 +33,16 @@ The Graduate Record Examination is a standarized exam, often required for admiss
 3. Quantitative Reasoning (Scored on a 130-170 scale)</br>
 
 ![download (3)](https://user-images.githubusercontent.com/38138793/86228965-ae399600-bbac-11ea-8829-a0866392be16.png)
+
+<b>TOEFL</b> </br>
+The Test of English as a Foreign Language is a standarized test for non-native English speakers that are choosing to enroll in English-speaking universities.</br>
+
+The test is split up into 4 sections:</br>
+
+1. Reading
+2. Listening
+3. Speaking
+4. Writing
 
 ![download (5)](https://user-images.githubusercontent.com/38138793/86229683-bb0ab980-bbad-11ea-93a9-bd5ef7c5401b.png)
 
