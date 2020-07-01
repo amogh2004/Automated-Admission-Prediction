@@ -1,5 +1,5 @@
 <div class="bg-green-light mb-2">
-  <h2>DESCRIPTION:</h2>
+  DESCRIPTION:
 </div>
 
 
