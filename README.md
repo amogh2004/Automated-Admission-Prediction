@@ -1,4 +1,7 @@
-<b>DESCRIPTION:</b>
+<div class="<h2>DESCRIPTION:</h2>">
+  .text-white on .bg-green-light
+ </div>
+
 
 The idea behind this project is to predict the 'chance of admit' during filing an application for Master studies.</br>
 The important parameters that are considered during this process are:</br>
