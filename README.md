@@ -11,6 +11,6 @@ The idea behind this project is to predict the **Chance of Admit** during filing
 * [seaborn](https://pypi.org/project/seaborn/) - Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.</br></br>
 ## Prerequisites
 You should have a [Python3](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/products/individual) installed in your system. To install other required libraries, run the following command in the terminal.
-'''
+```
 conda install -r requirements.txt
-'''
+```
