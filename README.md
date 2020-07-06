@@ -12,5 +12,5 @@ The idea behind this project is to predict the **Chance of Admit** during filing
 ## Prerequisites
 You should have [Python3](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/products/individual) installed in your system. To install other required libraries, run the following command in the terminal.
 ```
-conda install -r requirements.txt
+pip install -r requirements.txt
 ```
